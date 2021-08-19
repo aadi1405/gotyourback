@@ -1,5 +1,6 @@
 # GOT YOUR BACK
 A REPO FOR STUDENTS!
+A repo where I keep adding content which may help students out! :)
 
 
 # GRE Prep 
