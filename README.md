@@ -3,8 +3,7 @@ A repo where I keep adding content [mainly resources] which may help students ou
 
 
 # GRE Prep 
-<details>
-  
+
 GRE scores are used by admissions or fellowship panels to supplement your undergraduate records, recommendation letters and other qualifications for graduate-level study. They provide schools with a common measure for comparison. [According to ETS]
 ## Books:
 -[To Learn: Princeton Review SAT Premium Prep 2022](/https://www.amazon.com/Princeton-Review-Premium-Prep-2022/dp/0525570446/ref=asc_df_0525570446/?tag=hyprod-20&linkCode=df0&hvadid=508996137250&hvpos=&hvnetw=g&hvrand=6591930968690678943&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003541&hvtargid=pla-1209949639860&psc=1)\
@@ -12,7 +11,6 @@ GRE scores are used by admissions or fellowship panels to supplement your underg
 ## Free GRE TEST:
 -[ETS Free practice tests](https://www.ets.org/gre/revised_general/prepare/powerprep/)
  
-</details>
 
 
 
