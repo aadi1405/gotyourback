@@ -10,8 +10,9 @@ GRE scores are used by admissions or fellowship panels to supplement your underg
 -[Practice Questions: 5 lb. Book of GRE Questions](https://www.amazon.com/dp/1506247598/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=3bf83e7e032143e449f02535d8e33ad1&hsa_cr_id=9892160330901&pd_rd_plhdr=t&pd_rd_r=cbc44528-e7ee-4015-9db0-bff4ad6b71ed&pd_rd_w=wXJ8c&pd_rd_wg=AKb65&ref_=sbx_be_s_sparkle_mcd_asin_0_img)
 ## Free GRE Pratice Tests:
 -[ETS Free practice tests](https://www.ets.org/gre/revised_general/prepare/powerprep/)
-## Youtube Videos
+##  Videos
 -[English GRE Vocabulary: Word of the Day](https://www.youtube.com/watch?v=7z-2PJOFgu4&list=PLYZACiD6j3Vuj2shy5qrZv0f497INANIE)
+-[Khan Academy Free Videos](https://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/khan_academy)
  
 
 
