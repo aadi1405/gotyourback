@@ -11,7 +11,7 @@ GRE scores are used by admissions or fellowship panels to supplement your underg
 ## Free GRE Pratice Tests:
 -[ETS Free practice tests](https://www.ets.org/gre/revised_general/prepare/powerprep/)
 ##  Videos
--[English GRE Vocabulary: Word of the Day](https://www.youtube.com/watch?v=7z-2PJOFgu4&list=PLYZACiD6j3Vuj2shy5qrZv0f497INANIE)
+-[English GRE Vocabulary: Word of the Day](https://www.youtube.com/watch?v=7z-2PJOFgu4&list=PLYZACiD6j3Vuj2shy5qrZv0f497INANIE)\
 -[Khan Academy Free Videos](https://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/khan_academy)
  
 
