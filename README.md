@@ -1,5 +1,5 @@
 # GOT YOUR BACK
-A repo where I keep adding content [mainly resources] which may help students out! :)
+A repo where I keep adding content [mainly resources] which may help students pursue their masters program! :)
 
 
 # GRE Prep 
