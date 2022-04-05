@@ -1,4 +1,6 @@
 # GOT YOUR BACK
+Hello Everyone, I got my acceptance from Columbia University and Duke University! Wish I had a one-stop guide for applying to universities before I began the process, hence created this Repo which will be helpful for students applying for Masters programs, particularly in USA.
+
 A repo where I keep adding content [mainly resources] which may help students pursue their masters program! :)
 
 
@@ -16,7 +18,16 @@ GRE scores are used by admissions or fellowship panels to supplement your underg
 
 
 # TOEFL / IELTS
-= English Proficiency test that is required by most US universities
+- English Proficiency test that is required by most US universities
+
+# Other Requirements include:
+The following vary according to the university and program
+## Recommendation Letters 
+-Generally 3-4 recommendation letters from work colleagues or university professors. Preferably approach professors who you have personally worked with either for a club, project or coursework.
+## Statement of Purpose (SOP)
+-An essay describing your "purpose" for applying to the particular program at the particular university. SOP usually includes personal background, work/project/research experience, extra & co-curriculur, reason for applying to the particular program and university, future goals etc. 
+## Interview / Video Questionnaire
+
  
 
 
