@@ -3,7 +3,7 @@ Hello Everyone, I got my acceptance from Columbia University and Duke University
 
 A repo where I keep adding content [mainly resources] which may help students pursue their masters program! :)
 
-Make sure to start your application and create your login, this allows you to see the requirements and prepare.
+Make sure to start your application and create your login, this allows you to see the requirements and prepare. Everything in this repo is based on personal experience and is just meant to be a general guide, it is not necessary that this is the only fixed route to follow!
 
 # GRE Prep 
 [GRE has been made optional/not required in several universities for different programs, make sure to check the university requirements]
